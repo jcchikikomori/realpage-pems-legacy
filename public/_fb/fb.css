@@ -1,0 +1,13 @@
+html, .footer-nav, .error_footer-nav {
+    background-color: #DD5D17;
+    overflow: hidden;
+    color: #FFF !important;
+    font-size: 15px;
+}
+.container {
+    border: 1px solid gold;
+}
+.footer-nav, .error_footer-nav {
+    margin: 20px 33px;
+    text-align: right;
+}

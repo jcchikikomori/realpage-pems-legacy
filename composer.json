@@ -1,0 +1,23 @@
+{
+    "name": "realpage/pems",
+    "type": "project",
+    "description": "PeMS",
+    "keywords": ["PEMS", "PHP", "application"],
+    "license": "GNU Public License Version 2",
+    "authors": [
+        {
+            "name": "Test Solution Group",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "phpmailer/phpmailer": "~5.2.7",
+        "gregwar/captcha": "~1.0.11",
+        "cbschuld/browser.php": "dev-master",
+        "beelab/bowerphp": "0.3.*@beta",
+        "donatj/phpuseragentparser": "*",
+        "robmorgan/phinx": "*",
+        "picqer/php-barcode-generator": "^0.1.0"
+    }
+}
